@@ -1,4 +1,7 @@
 📊 Retail Sales Analytics Dashboard | Power BI
+
+Live dashboard: https://g2-depi.github.io/Superstore-Project/
+
 📌 Project Overview
 
 This project presents a comprehensive Retail Sales Analytics Dashboard built using Power BI to analyze business performance across sales, orders, and customers.
@@ -98,3 +101,5 @@ Mohamed Nasser Meky
 My Contributions
 Dashboard Design & Visualization
 This project was completed collaboratively with my team, where we worked together on data preparation, analysis, and dashboard development. My primary contribution focused on Dashboard and including KPI development
+
+💬 Which dashboard page would you like to explore first: Sales, Orders, or Customers?
