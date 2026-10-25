@@ -91,12 +91,13 @@ Data Modeling
 
 This project was developed collaboratively as part of a team effort.
 Team Members
-Andrew Hany Isaac
-Aya Gamal Gomaa
-Mariam El Husseiny Mohsen
-Mohamed Khalil Ibrahim
-Alaa Ashraf Elemam
-Mohamed Nasser Meky
+Andrew Hany Isaac Wahba 
+Aya Gamal Gomaa 
+Mariam Elhusseiny Mohsen Hussein 
+Mohamed Khalil Ibrahim  Rashdan 
+Alaa Ashraf Elemam Hussein 
+Mohamed Nasser Meky 
+Ahmed Bedir Abdrabou Mostafa 
 
 My Contributions
 Dashboard Design & Visualization
