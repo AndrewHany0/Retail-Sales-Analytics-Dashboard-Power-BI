@@ -91,13 +91,13 @@ Data Modeling
 
 This project was developed collaboratively as part of a team effort.
 Team Members
-1. Andrew Hany Isaac Wahba 
-2. Aya Gamal Gomaa 
-3. Mariam Elhusseiny Mohsen Hussein 
-4. Mohamed Khalil Ibrahim  Rashdan 
-5. Alaa Ashraf Elemam Hussein 
-6. Mohamed Nasser Meky 
-7. Ahmed Bedir Abdrabou Mostafa 
+1. Andrew Hany Isaac Wahba " https://github.com/AndrewHany0 " 
+2. Aya Gamal Gomaa " https://github.com/ayagomaa-cmd " 
+3. Mariam Elhusseiny Mohsen Hussein " https://github.com/mariam-e-mohsen " 
+4. Mohamed Khalil Ibrahim  Rashdan " https://github.com/midoelmasry12345 " 
+5. Alaa Ashraf Elemam Hussein "  " 
+6. Mohamed Nasser Meky "  " 
+7. Ahmed Bedir Abdrabou Mostafa " https://github.com/Ahmed-Badir " 
 
 My Contributions
 Dashboard Design & Visualization
